@@ -12,8 +12,8 @@
 Чтобы склонировать последующие репозитории (после вычитки первого) - пойдите другим путем:   ![image](https://user-images.githubusercontent.com/64093321/202767831-fd192797-ffc1-4fcd-8247-d88d492d9c62.png)
 
 2. В открывшемся окне выберите вкладку "URL" и добавьте ссылку на репозиторий, который вам отправили на правки. Внимание, в ссылке должен быть только username и название репозитория, то есть без названия ветки: 
-- Не подходит, из-за того, что в адресе есть еще и упоминание ветки: https://github.com/netology-code/mq-diploma/tree/sk-work 
-- Подходит: https://github.com/netology-code/mq-diploma.   
+* Не подходит, из-за того, что в адресе есть еще и упоминание ветки: https://github.com/netology-code/mq-diploma/tree/sk-work 
+* Подходит: https://github.com/netology-code/mq-diploma.   
 
 ![image](https://user-images.githubusercontent.com/64093321/202768566-a82c1a80-9017-429d-9c2f-1dbeac6e2273.png)
 
@@ -23,16 +23,18 @@
 ![image](https://user-images.githubusercontent.com/64093321/202772171-276a9bed-4b77-4b28-8490-a9e4498daeb5.png)
 
 4. После того, как вы выбрали нужный репозиторий и ветку, вам нужно нажать на кнопку:    
-![image](https://user-images.githubusercontent.com/64093321/202772478-b478bcf0-16fc-4e66-b046-4856e65aa59e.png)
+![image](https://user-images.githubusercontent.com/64093321/202772478-b478bcf0-16fc-4e66-b046-4856e65aa59e.png). 
+
 В открывшейся папке вы увидите файлы, которые нужно отредактировать (редактируем README.md):   ![image](https://user-images.githubusercontent.com/64093321/202772763-a61b259a-5a1d-49dc-8beb-7ae23da8995c.png)
+
 Если репозиторий содержит несколько файлов, например, репо с домашками, то файл README будет лежать в отдельной папке. Обратите внимание на то, как называется файл в поставленной задаче, необязательно он будет называться README: 
 ![image](https://user-images.githubusercontent.com/64093321/202775800-eb8abfc5-dd42-4174-808e-65347b96e833.png)
 
 
-5. Если у вас уже есть программа для редактирования формата .md, то файл откроет без проблем. Если нет, нужно установить 1 из программ: 
-Для iOS: https://macdown.uranusjr.com/
-Для винды: http://code52.org/DownmarkerWPF/?utm_source=ixbtcom
-Вы можете посмотреть и установить любую удобную для вас программу для редактирования, это просто рекомендованные программы 
+5. Если у вас уже есть программа для редактирования формата .md, то файл откроет без проблем. Если нет, нужно установить программу для вашей операционной системы: 
+* Для iOS: https://macdown.uranusjr.com/. 
+* Для винды: http://code52.org/DownmarkerWPF/?utm_source=ixbtcom. 
+* Можете посмотреть и установить любую удобную для вас программу для редактирования 
 
 Так это выглядит в программе на Mac: 
 ![image](https://user-images.githubusercontent.com/64093321/202773896-6e760506-4c82-4dab-b204-8800b03558ff.png)
